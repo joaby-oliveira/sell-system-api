@@ -26,3 +26,5 @@ class Product {
   @UpdateDateColumn()
   updatedAt: Date;
 }
+
+export default Product;
